@@ -1,6 +1,6 @@
 # QR Code Generator and Scanner
 
-A lightweight, highly responsive, and premium glassmorphic single-page web utility to generate and scan QR codes natively from your browser. The application features a modern frosted-glass interface with harmonized color palettes, smooth hover micro-animations, and full offline-first capability.
+A lightweight, highly responsive, and single-page web utility to generate and scan QR codes natively from your browser. The application features a modern frosted-glass interface with harmonized color palettes, smooth hover micro-animations, and full offline-first capability.
 
 ## Features
 
